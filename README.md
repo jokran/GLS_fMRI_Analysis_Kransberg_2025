@@ -9,7 +9,7 @@ This repository contains the R script (`GLS_analyses.R`) used for the primary st
 
 **Contact:** Jonas Kransberg - Jonas.kransberg@psykologi.uio.no 
 
-## Script Description (`GLS_analyses.R`)
+## Script Description (`Analyses_GridLikeSignals.R`)
 
 This script performs the analyses investigating grid-like signals (GLS) in human entorhinal cortex fMRI data, including:
 * Tests for 6-fold, 5-fold, and 7-fold GLS magnitude against zero.
@@ -26,7 +26,7 @@ This script performs the analyses investigating grid-like signals (GLS) in human
 
 ## Requirements
 
-* **R:** Developed using R version [Specify R version, e.g., 4.x.x]. Compatibility with other versions is likely but not guaranteed.
+* **R:** Developed using R version 4.5.0 (2025-04-11). Compatibility with other versions is likely but not guaranteed.
 * **R Packages:**
     * `tidyverse` (for data manipulation and plotting utilities)
     * `lmerTest` (for linear mixed-effects models)
