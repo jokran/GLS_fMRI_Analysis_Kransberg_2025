@@ -5,8 +5,7 @@
 This repository contains the R script (`GLS_analyses.R`) used for the primary statistical analyses reported in the paper:
 
 * **[Failure to Detect Entorhinal Grid-Like Signals in a Pre-registered Human fMRI Study]**
-* Kransberg, J., Bråthen, A. C. S., Falch, E. S., Øverbye, K. E. Ø., Garrido, P. F., Fjell, A. M., Stangl, M., Wolbers, T., Sneve, M. H., & Walhovd, K. B. (Expected Year/Journal Info).
-* [Optional: Add Link to Pre-print or Published Paper Here when available]
+* Kransberg, J., Bråthen, A. C. S., Falch, E. S., Øverbye, K. E. Ø., Garrido, P. F., Fjell, A. M., Stangl, M., Wolbers, T., Sneve, M. H., & Walhovd, K. B. 
 
 **Contact:** Jonas Kransberg - Jonas.kransberg@psykologi.uio.no 
 
